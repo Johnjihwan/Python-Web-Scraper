@@ -4,3 +4,9 @@
 ```
 https://nomadcoders.co/
 ```
+
+>requests module install method.
+```
+1. sudo apt-get install python3-pip
+2. sudo pip install requests
+```
