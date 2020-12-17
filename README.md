@@ -10,3 +10,8 @@ https://nomadcoders.co/
 1. sudo apt-get install python3-pip
 2. sudo pip install requests
 ```
+>Extraction method.
+```
+1. beautifulsoup4(install)
+2. Apply as appropriate in accordance with module documentation.
+```
